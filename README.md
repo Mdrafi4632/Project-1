@@ -22,8 +22,11 @@ The following **optional** features are implemented:
 - [x] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
-
-* [ ] List anything else you added to improve the site's functionality!
+- [x] Implemented lazy loading for images to boost performance.
+- [x] Added fallback images to handle broken or missing image URLs.
+- [x] Used CSS Grid for a more responsive and organized layout.
+- [x] Enhanced accessibility with proper `alt` attributes and ARIA labels.
+- [x] Optimized file paths and naming conventions for seamless deployment.
 
 ## Video Walkthrough
 
@@ -46,12 +49,8 @@ https://imgur.com/a/No5cXEk
 - Some coffee shop images were missing.
 - Implemented a fallback image when an image fails to load.
 
-**Performance Optimization:**
-- Large images slowed down loading.
-- Used lazy loading (loading="lazy") and optimized file sizes.
-
 **Search Bar Functionality:**
-The search feature is currently a placeholder.
+- The search feature is currently a placeholder.
 - We plan to add dynamic filtering for coffee shop searches.
 
 **Deployment Issues:**
