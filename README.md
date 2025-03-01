@@ -28,13 +28,36 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<img src="https://i.imgur.com/No5cXEk.gif" title="Video Walkthrough" width="100%" alt="Video Walkthrough" />
-
 https://imgur.com/a/No5cXEk
-## Notes
 
-Describe any challenges encountered while building the app.
+
+## Notes
+**Challenges Encountered While Building the App**
+
+**Image Loading Issues:**
+- Imgur links were not working on GitHub.
+- Fixed by using direct image URLs or hosting images in the repository.
+
+**Responsive Layout Problems:**
+- Cards were misaligned on small screens.
+- I used CSS Grid instead of Flexbox for better alignment.
+
+**Broken Images:**
+- Some coffee shop images were missing.
+- Implemented a fallback image when an image fails to load.
+
+**Performance Optimization:**
+- Large images slowed down loading.
+- Used lazy loading (loading="lazy") and optimized file sizes.
+
+**Search Bar Functionality:**
+The search feature is currently a placeholder.
+- We plan to add dynamic filtering for coffee shop searches.
+
+**Deployment Issues:**
+- Some assets were not displaying on GitHub Pages/Vercel.
+- Fixed by using correct relative image paths.
+
 
 ## License
 
