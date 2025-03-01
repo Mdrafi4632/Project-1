@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="https://i.imgur.com/a/No5cXEk.gif" title="Video Walkthrough" width="100%" alt="Video Walkthrough" />
+<img src="https://i.imgur.com/No5cXEk.gif" title="Video Walkthrough" width="100%" alt="Video Walkthrough" />
 
 https://imgur.com/a/No5cXEk
 ## Notes
@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [RAFI]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
