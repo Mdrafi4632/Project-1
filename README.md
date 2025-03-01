@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [x] Buttons or links to a related resources are on each card component
+- [x] Buttons or links to related resources are on each card component
 - [x] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file](https://imgur.com/a/No5cXEk).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://i.imgur.com/No5cXEk.gif" title="Video Walkthrough" width="100%" alt="Video Walkthrough" />
 
 
 ## Notes
