@@ -1,7 +1,7 @@
 # Project-1
 Codepath: Community Board
 
-# Web Development Project 1 - *Coffee Shops NYC*
+# Web Development 102 Project 1 - *Coffee Shops NYC*
 
 Submitted by: **Md Rafi**
 
