@@ -7,7 +7,7 @@ Submitted by: **Md Rafi**
 
 This web app: **Discover the best coffee spots in the city, recommended by the community!**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
